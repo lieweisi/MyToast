@@ -15,5 +15,7 @@
 ### 2.在app的bulid.gradle中添加引用  
     compile 'com.github.lieweisi:MyToast:v0.1'
     
- 
+### 参考代码
+    MyToast.showLong(this,"哈罗!");
+    //使用方式与系统Toast相差不大，注意获取的Context是activity.this
    
