@@ -4,12 +4,13 @@
 ### 库实现功能 
     防止魅族等机型关闭通知后软件无提示。            
   
-### 具体使用方法
-   1.在项目bulid.gradle中添加
+### 多行文本框    
+    1.在项目bulid.gradle中添加
 allprojects {
     repositories {
         jcenter()
         maven { url 'https://jitpack.io' }
     }
-2.在app的bulid.gradle中添加引用
-compile 'com.github.lieweisi:MyToast:v0.1'
+    2.在app的bulid.gradle中添加引用
+compile 'com.github.lieweisi:MyToast:v0.1' 
+   
