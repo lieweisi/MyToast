@@ -6,6 +6,18 @@
   
 ### 多行文本框    
     1.在项目bulid.gradle中添加
+### 比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧  
+    public class HelloWorld {  
+  
+      /**  
+      * @param args  
+   */  
+   public static void main(String[] args) {  
+   System.out.println("HelloWorld!");  
+  
+   }  
+  
+    }  
 allprojects {
     repositories {
         jcenter()
