@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="title_yiguanzhu">#6eaf21</color>
+ <!-- 已关注 -->
+    <color name="title_weiguanzhu">#646464</color>
+ <!-- 未关注 -->
+    <color name="transparent">#50000000</color>
+    <color name="gray_white">#ebebeb</color>
+    <color name="transparent_bg">#88838B8B</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#2284bc</color>
+    <color name="fpbg">#f0f0f0</color>
+ <!-- 找回密码背景色 -->
+    <color name="huise">#dcdcdc</color>
+    <color name="gray">#7c7c7c</color>
+    <color name="login_top_bar">#ff9900</color>
+
+    <drawable name="transparent_background">#00000000</drawable>
+
+    <color name="spots_dialog_color">#ff0099cc</color>
+    <color name="usercenter_bg">#efeff4</color>
+    <color name="vip_text">#fffe19</color>
+    <color name="fengexian">#d6d7dc</color>
+    <color name="address">#969696</color>
+    <color name="yue">#FFCC00</color>
+    <color name="hongbao">#ff66ff</color>
+    <color name="huadong">#ff6600</color>
+    <color name="more">#c3c3c3</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="defalutTxt">#333333</color>
+ <!-- 默认字体颜色 -->
+    <color name="wuliuTxt">#339966</color>
+ <!-- 物流当前项字体颜色 -->
+ 
+  <color name="security_right_txt">#e57d22</color> <!-- 安全中心右边文字色-->
+  
+  <color name="nearly_select_bg">#efeff4</color>
+  <color name="gridview_size_item_bg">#efeff4</color>
+  <color name="gridview_size_item_bg_select">#ff6600</color>
+  <color name="shop_edit_select">#efeff4</color>
+  <color name="qianhui">#999999</color>
+  <color name="dash_color">#cccccc</color>
+  <color name="liuliliu">#666666</color>
+  
+   <color name="area_select">#ffe7d9</color>
+   <color name="bt_red_pesss">#FF1919</color>
+   <color name="bt_red_unpesss">#FF4B4C</color>
+</resources>

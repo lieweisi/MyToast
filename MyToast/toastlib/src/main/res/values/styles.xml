@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="anim_view">
+        <item name="@android:windowEnterAnimation">@anim/anim_in</item>
+        <item name="@android:windowExitAnimation">@anim/anim_out</item>
+    </style>
+
+</resources>
